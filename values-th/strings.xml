@@ -13,9 +13,9 @@
     <string name="welcome_agree">ฉันยอมรับ</string>
     <string name="welcome_content">ยินดีต้อนรับสู่ TheoTown!
 
-\n\nแอพลิเคชั่นนี้กำลังอยู่ระหว่างการพัฒนา อาจจะมีข้อบกพร่องเล็กน้อยเป็นบางส่วน ขอความกรุณาท่านอย่าเพิ่งด่วนสรุปตัดสินเพราะปัญหาเล็กน้อยเหล่านี้ ขอให้ท่านคำนึงด้วยว่าเกมนี้สามารถให้ดาวน์โหลดได้ฟรี และถูกพัฒนาด้วยคนกลุ่มเล็กๆ
+\n\nแอปพลิเคชันนี้กำลังอยู่ระหว่างการพัฒนา อาจจะมีข้อบกพร่องเล็กน้อยเป็นบางส่วน ขอความกรุณาท่านอย่าเพิ่งด่วนสรุปตัดสินเพราะปัญหาเล็กน้อยเหล่านี้ ขอให้ท่านคำนึงด้วยว่าเกมนี้สามารถให้ดาวน์โหลดได้ฟรี และถูกพัฒนาด้วยคนกลุ่มเล็กๆ
 
-\n\nถ้าหากว่าท่านชื่นชอบเกมนี้ ท่านสามารถสนับสนุนพวกเราได้โดยการแชร์ให้เพื่อนๆของท่านรู้
+\n\nถ้าหากว่าท่านชื่นชอบเกมนี้ ท่านสามารถสนับสนุนพวกเราได้โดยการแชร์ให้เพื่อน ๆ ของท่านรู้
 
 \n\nขอให้สนุกกับเกมนะ :D</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
@@ -25,7 +25,7 @@
     <string name="createcity_sizesmall">เล็ก</string>
     <string name="createcity_sizemiddle">กลาง</string>
     <string name="createcity_sizebig">ใหญ่</string>
-    <string name="createcity_sizeother">อื่นๆ</string>
+    <string name="createcity_sizeother">อื่น ๆ</string>
     <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_estate">ทรัพย์สิน : %1$s</string>
     <string name="game_rating">%1$,d</string>
@@ -60,7 +60,7 @@
     <string name="dialog_screenshot_text">ภาพถ่ายถูกบันทึกในชื่อ %1$s.</string>
     <string name="dialog_screenshot_cmdok">โอเค ขอบคุณ</string>
     <string name="draftselector_titleparks">สวนสาธารณะ</string>
-    <string name="draftselector_titlepublics">สาธาระสมบัติ</string>
+    <string name="draftselector_titlepublics">สาธารณะสมบัติ</string>
     <string name="draftselector_titleenergy">ไฟฟ้า</string>
     <string name="draftselector_titlewater">น้ำประปา</string>
     <string name="draftselector_titleschool">การศึกษา</string>
@@ -72,12 +72,12 @@
     <string name="draftselector_monthlyprice">ค่าใช้จ่ายรายเดือน : %s</string>
     <string name="draftselector_id">ID : %1$s</string>
     <string name="loadcity_cmddelete">ลบ</string>
-    <string name="loadcity_deletedialog_text">คุณต้องการจะลบจริงๆหรือไม่?</string>
+    <string name="loadcity_deletedialog_text">คุณต้องการจะลบจริง ๆ หรือไม่?</string>
     <string name="loadcity_deletedialog_title">ลบเมือง</string>
     <string name="loadcity_deletedialog_cmdcancel">ยกเลิก</string>
     <string name="loadcity_deletedialog_cmddelete">ลบ</string>
     <string name="createcity_sizebigbig">ใหญ่มาก</string>
-    <string name="dialog_leave_text">คุณต้องการออกจาก TheoTown จริงๆหรือ?</string>
+    <string name="dialog_leave_text">คุณต้องการออกจาก TheoTown จริง ๆ หรือ?</string>
     <string name="dialog_leave_title">ออกจากเกม</string>
     <string name="dialog_leave_cmdcancel">ยกเลิก</string>
     <string name="dialog_leave_cmdleave">ออกจากเกม</string>
@@ -87,20 +87,20 @@
     <string name="dialog_invalidcityname_text">กรุณาใช้ชื่ออื่นสำหรับเมืองของคุณ ชื่อเมืองนั้นไม่สามารถเว้นว่างไว้ได้</string>
     <string name="dialog_invalidcityname_cmdok">ตกลง</string>
     <string name="dialog_hugesize_title">มโหฬาร</string>
-    <string name="dialog_hugesize_text">ขนาดแผนที่นี้ยังอยู่ในขั้นทดลองและไม่อาจใช้งานได้กับอุปกรณ์ของคุณ คุณตำเป็นต้องใช้แผนที่ที่ใหญ่ขนาดนี้หรือไม่?</string>
+    <string name="dialog_hugesize_text">ขนาดแผนที่นี้ยังอยู่ในขั้นทดลองและไม่อาจใช้งานได้กับอุปกรณ์ของคุณ คุณจำเป็นต้องใช้แผนที่ที่ใหญ่ขนาดนี้หรือไม่?</string>
     <string name="dialog_hugesize_cmdyes">ใช่ ฉันต้องการ</string>
-    <string name="dialog_hugesize_cmdno">ไมเป็นไร</string>
+    <string name="dialog_hugesize_cmdno">ไม่เป็นไร</string>
     <string name="draft_church00_title">โบสถ์</string>
     <string name="draft_church00_text">หมู่บ้านทุกแห่งต้องการโบสถ์(วัด)ทั้งนั้นแหละ</string>
     <string name="draft_townhall00_title">ศาลากลาง</string>
-    <string name="draft_townhall00_text">เมืองที่ใหญ่นั้นคู่ควรกับศาลากลางดีๆ ผู้คนจะต้องชอบมันแน่ๆ</string>
+    <string name="draft_townhall00_text">เมืองที่ใหญ่นั้นคู่ควรกับศาลากลางดี ๆ ผู้คนจะต้องชอบมันแน่ ๆ</string>
     <string name="draft_wire00_title">สายไฟฟ้า</string>
-    <string name="draft_wire00_text">สายไฟล้วนๆ ไม่มีสายสื่อสารผสม /nใช้สายไฟพวกนี้เพื่อเชื่อมต่อโรงไฟฟ้ากับเมืองของคุณ!</string>
+    <string name="draft_wire00_text">สายไฟล้วน ๆ ไม่มีสายสื่อสารผสม /nใช้สายไฟพวกนี้เพื่อเชื่อมต่อโรงไฟฟ้ากับเมืองของคุณ!</string>
     <string name="draft_windturbine00_title">กังหันลม</string>
     <string name="draft_windturbine00_text">กังหันลมรักษ์โลก! เสียงดังหน่อย แต่ไม่มีมลพิษนะ</string>
     <string name="draft_coalplant00_title">โรงไฟฟ้าถ่านหิน</string>
-    <string name="draft_coalplant00_text">โรงไฟฟ้าถ่ายหินนั้นสามารถผลิตพลังงานไฟฟ้าได้เยอะ แต่ว่ามันแย่ต่อสิ่งแวดล้อมนะ</string>
-    <string name="draft_solarpanels00_title">แผงโซล่าเซลล์</string>
+    <string name="draft_coalplant00_text">โรงไฟฟ้าถ่านหินนั้นสามารถผลิตพลังงานไฟฟ้าได้เยอะ แต่ว่ามันแย่ต่อสิ่งแวดล้อมนะ</string>
+    <string name="draft_solarpanels00_title">แผงโซลาร์เซลล์</string>
     <string name="draft_solarpanels00_text">ดีต่อสิ่งแวดล้อม &amp; ไร้มลพิษ ไม่มีอะไรเสียหาย!</string>
     <string name="draft_park00_title">สวนดอกไม้ขนาดเล็ก</string>
     <string name="draft_park00_text">นำธรรมชาติส่วนเล็กๆเข้าสู่เมืองที่คับคั่งของคุณ!</string>
@@ -110,25 +110,25 @@
     <string name="draft_park02_text">ไว้ให้ผู้คนมาเดินเล่นและมีความสุข</string>
     <string name="draft_park03_title">สวนขนาดเล็ก</string>
     <string name="draft_waterfountain00_title">น้ำพุ</string>
-    <string name="draft_waterfountain00_text">แค่น้ำพุเฉยๆ ไม่ใช่บั้งไฟพญานาคนะ</string>
+    <string name="draft_waterfountain00_text">แค่น้ำพุเฉย ๆ ไม่ใช่บั้งไฟพญานาคนะ</string>
     <string name="draft_bigpark00_title">สวนขนาดใหญ่</string>
     <string name="draft_bigpark00_text">เป็นที่ชื่นชอบของผู้คนแน่นอน</string>
     <string name="draft_park03_text">เป็นที่ชื่นชอบของผู้คนแน่นอน</string>
-    <string name="draft_medic00_title">คลีนิก</string>
+    <string name="draft_medic00_title">คลินิก</string>
     <string name="draft_medic00_text">ผู้คนสามารถมาพบหมอและปรีกษาเรื่องการแพทย์ได้</string>
     <string name="draft_medic01_title">โรงพยาบาล</string>
-    <string name="draft_medic01_text">ผู้คนรู้สึกอุ่นใจได้แน่นอนถ้ามีโรงพยาบาลนี้อยู่ใกล้ๆ /n/nพยายามอย่าให้คนรอคิวล้นหล่ะ</string>
+    <string name="draft_medic01_text">ผู้คนรู้สึกอุ่นใจได้แน่นอนถ้ามีโรงพยาบาลนี้อยู่ใกล้ ๆ /n/nพยายามอย่าให้คนรอคิวล้นหล่ะ</string>
     <string name="draft_school00_title">โรงเรียนอนุบาล</string>
-    <string name="draft_school00_text">นำเด็กๆเข้าสู่ระบบการศึกษาและเปิดโลกความรู้ให้กับพวกเขา!</string>
+    <string name="draft_school00_text">นำเด็ก ๆ ัเข้าสู่ระบบการศึกษาและเปิดโลกความรู้ให้กับพวกเขา!</string>
     <string name="draft_school01_title">โรงเรียนมัธยม</string>
     <string name="draft_school01_text">ให้เด็กที่โตขึ้นมานั้นได้ศึกษาหาความรู้!</string>
     <string name="draft_museum00_title">พิพิธภัณฑ์</string>
-    <string name="draft_museum00_text">ผู้ใหญ่ที่มีความสนใจ สามารถเข้ามาเรียนรู้เรื่องราวต่างๆได้ที่นี่</string>
+    <string name="draft_museum00_text">ผู้ใหญ่ที่มีความสนใจ สามารถเข้ามาเรียนรู้เรื่องราวต่าง ๆ ได้ที่นี่</string>
     <string name="draft_pipe00_title">ท่อประปา</string>
     <string name="draft_pipe00_text">ส่งต่อน้ำสะอาดจากแหล่งผลิตไปถึงบ้านเรือน</string>
     <string name="draft_waterpump00_title">เครื่องสูบน้ำ</string>
     <string name="draft_waterpump00_text">สูบน้ำขึ้นมาเพื่อนำไปให้ประชาชนใช้</string>
-    <string name="draft_watertower00_title">หอเก็บน้า</string>
+    <string name="draft_watertower00_title">หอเก็บน้ำ</string>
     <string name="draft_watertower00_text">นำน้ำมาให้ประชาชนได้ใช้</string>
     <string name="settings_areazonetool">ใช้เครื่องมือกำกับเขต</string>
     <string name="createcity_gamemode">โหมด :</string>
@@ -164,8 +164,8 @@
     <string name="draft_bigschool00_title">โรงเรียนประถม</string>
     <string name="draft_bigschool00_text">ครอบคลุมเหมือนกับโรงเรียนอนุบาล แต่ว่าเป็นสำหรับนักเรียนประถม แต่ครอบคลุมเหมือนโรงเรียนอนุบาล /nอ้าว งงเด้!!</string>
     <string name="draft_treepark00_title">สวนต้นไม้</string>
-    <string name="draft_treepark00_text">ต้นไม้เล็กๆเพื่อสร้างความร่มรื่นรื่นรมณ์</string>
-    <string name="menu_premium">พรีเมี่ยม</string>
+    <string name="draft_treepark00_text">ต้นไม้เล็ก ๆ เพื่อสร้างความร่มรื่นรื่นรมณ์</string>
+    <string name="menu_premium">พรีเมียม</string>
     <string name="ci_budget_title">การเงิน การคลัง</string>
     <string name="budget_res0">ที่พักอาศัย ₮ (%1$,d)</string>
     <string name="budget_res1">ที่พักอาศัย ₮₮ (%1$,d)</string>
@@ -173,12 +173,12 @@
     <string name="budget_com0">ธุรกิจ ₮ (%1$,d)</string>
     <string name="budget_com1">ธุรกิจ ₮₮ (%1$,d)</string>
     <string name="budget_com2">ธุรกิจ ₮₮₮ (%1$,d)</string>
-    <string name="budget_ind0">อุสาหกรรม ₮ (%1$,d)</string>
+    <string name="budget_ind0">อุตสาหกรรม ₮ (%1$,d)</string>
     <string name="budget_ind1">อุตสาหกรรม ₮₮ (%1$,d)</string>
     <string name="budget_ind2">อุตสาหกรรม ₮₮₮ (%1$,d)</string>
     <string name="budget_park">สวนสาธารณะ</string>
     <string name="budget_education">กระทรวงศึกษาธิการ</string>
-    <string name="budget_firebrigade">กองปฏิบัตการดับเพลิง</string>
+    <string name="budget_firebrigade">กองปฏิบัติการดับเพลิง</string>
     <string name="budget_police">กรมตำรวจ</string>
     <string name="budget_award">รางวัล</string>
     <string name="budget_energy">กระทรวงพลังงาน</string>
@@ -208,7 +208,7 @@
     <string name="topic_trolls">Don\'t feed the trolls</string>
     <string name="settings_reversedbuildtool">เคลื่อนที่ย้อนกลับในโหมดก่อสร้าง</string>
     <string name="draft_karlsruhecastle00_title">พระราชวัง Karlsruhe</string>
-    <string name="draft_karlsruhecastle00_text">กับดักนักท่องเที่ยวดีๆนี่เอง</string>
+    <string name="draft_karlsruhecastle00_text">กับดักนักท่องเที่ยวดี ๆ นี่เอง</string>
     <string name="shader_old">ย้อนยุค</string>
     <string name="topic_narcissistic">Don\'t mind narcissistic people</string>
     <string name="topic_great">เธอๆ เราชอบเธออ่ะ &lt;3</string>
@@ -221,14 +221,14 @@
     <string name="draft_waterfountain01_title">น้ำพุหรู</string>
     <string name="draft_waterfountain01_text">ลองโยนเหรียญลงไปซิ!</string>
     <string name="draft_treepark01_title">สวนสาธารณะ</string>
-    <string name="draft_treepark01_text">สวนสาธณะสวยๆกับเหล่าต้นไม้</string>
+    <string name="draft_treepark01_text">สวนสาธารณะสวย ๆ กับเหล่าต้นไม้</string>
     <string name="buildinginfo_res0">อาคารที่พักอาศัย Lv.1</string>
-    <string name="buildinginfo_com0">ร้านค้าพานิชย์ Lv.1</string>
+    <string name="buildinginfo_com0">ร้านค้าพาณิชย์ Lv.1</string>
     <string name="buildinginfo_ind0">โรงงานอุตสาหกรรม Lv.1</string>
     <string name="buildinginfo_res1">อาคารที่พักอาศัย Lv.2</string>
     <string name="buildinginfo_res2">อาคารที่พักอาศัย Lv.3</string>
-    <string name="buildinginfo_com1">ร้านค้าพานิชย์ Lv.2</string>
-    <string name="buildinginfo_com2">ร้านค้าพานิชย์ Lv.3</string>
+    <string name="buildinginfo_com1">ร้านค้าพาณิชย์ Lv.2</string>
+    <string name="buildinginfo_com2">ร้านค้าพาณิชย์ Lv.3</string>
     <string name="buildinginfo_ind1">โรงงานอุตสาหกรรม Lv.2</string>
     <string name="buildinginfo_ind2">โรงงานอุตสาหกรรม Lv.3</string>
     <string name="buildinginfo_habitants">ผู้อยู่อาศัย : %1$,d/%2$,d</string>
@@ -247,15 +247,15 @@
     <string name="draftselector_titletransport">ระบบขนส่งมวลชน</string>
     <string name="draftselector_titlezone">แสดงเขตผังเมือง</string>
     <string name="draft_zoneresidential_title">เขตที่พักอาศัย</string>
-    <string name="draft_zoneresidential_text">ให้ผูคนมาสร้างบ้านและอาศัยในเขตนี้</string>
+    <string name="draft_zoneresidential_text">ให้ผู้คนมาสร้างบ้านและอาศัยในเขตนี้</string>
     <string name="draft_zonecommercial_title">เขตพาณิชย์</string>
     <string name="draft_zonecommercial_text">ให้ร้านค้าและสำนักงานมาก่อสร้างในพื้นที่นี้</string>
     <string name="draft_zoneindustrial_title">เขตอุตสาหกรรม</string>
-    <string name="draft_zoneindustrial_text">ให้โรงงานอุตสาหกรรมมาก่อสร้างในบริเวรนี้และจัดตั้งเป็นนิคม</string>
+    <string name="draft_zoneindustrial_text">ให้โรงงานอุตสาหกรรมมาก่อสร้างในบริเวณนี้และจัดตั้งเป็นนิคม</string>
     <string name="draft_road00_title">ถนนดิน</string>
     <string name="draft_road00_text">ถนนพื้นฐานก่อนที่จะได้รับการพัฒนา</string>
-    <string name="draft_road01_title">ถนนราดยาง</string>
-    <string name="draft_road01_text">ถนนราดยางเรี๊ยบเรียบ~ รถยนต์พอขับได้เร็วขึ้นบ้าง</string>
+    <string name="draft_road01_title">ถนนลาดยาง</string>
+    <string name="draft_road01_text">ถนนลาดยางเรี๊ยบเรียบ~ รถยนต์พอขับได้เร็วขึ้นบ้าง</string>
     <string name="draftselector_titleterrain">ภูมิทัศน์</string>
     <string name="draft_terrainwater_title">แหล่งน้ำ</string>
     <string name="draft_terrainwater_text">สร้างแหล่งน้ำบนแผนที่ของคุณ</string>
@@ -282,7 +282,7 @@
     <string name="draftselector_cmdremove">ทำลาย!</string>
     <string name="draftselector_cmdview">ดู</string>
     <string name="busstopinfo_usage">กำลังรอรถ : %2$,d/%3$,d\nการใช้งาน : %1$.1f%%</string>
-    <string name="ci_rating_title">เรตติ้ง</string>
+    <string name="ci_rating_title">เรตติง</string>
     <string name="ci_energy_networks">%1$,d ระบบ</string>
     <string name="ci_energy_produced">กำลังผลิต : %1$,.0fkW (%2$,d โรง)</string>
     <string name="ci_energy_consumed">ปริมาณการใช้ : %1$,.0fkW (%2$,d อาคาร)</string>
@@ -315,7 +315,7 @@
     <string name="ci_general_population1">ประชากรชนชั้นกลาง (₮₮): %1$,d</string>
     <string name="ci_general_population2">ประชากรชนชั้นสูง (₮₮₮): %1$,d</string>
     <string name="draft_footballfield00_title">ลานฟุตบอล</string>
-    <string name="draft_footballfield00_text">ให้น้องๆมาวิ่งเล่นเตะบอลกัน แต่ไม่ว่าจะวัยไหนก็ใช้ได้นะ</string>
+    <string name="draft_footballfield00_text">ให้น้อง ๆ มาวิ่งเล่นเตะบอลกัน แต่ไม่ว่าจะวัยไหนก็ใช้ได้นะ</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
     <string name="draftselector_upgrades">%1$,d อัปเกรดที่สามารถสร้างเพิ่มได้</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d อัปเกรด</string>
@@ -331,10 +331,10 @@
     <string name="draft_pool00_title">สระว่ายน้ำ</string>
     <string name="draft_pool00_text">สระน้ำสะอาด สดใส ถูกหลักอนามัย! ลึกน้องกว่า 6 เมตรและไม่มีจระเข้</string>
     <string name="draft_pool00_waterslide_title">สไลด์เดอร์</string>
-    <string name="draft_pool00_waterslide_text">เก๋ไก๋สไลด์เดอร์~! สร้างสไลด์เพิ่มเพื่อให้เด็กๆเล่นได้อย่างสนุกสนานมากยิ่งขึ้น!</string>
+    <string name="draft_pool00_waterslide_text">เก๋ไก๋สไลด์เดอร์~! สร้างสไลด์เพิ่มเพื่อให้เด็ก ๆ เล่นได้อย่างสนุกสนานมากยิ่งขึ้น!</string>
     <string name="blank_text">ตรงนี้อาจจะเป็นโฆษณาของคุณก็ได้</string>
     <string name="draft_middlepark00_title">ลานกิจกรรม</string>
-    <string name="draft_middlepark00_text">เดินกินลม ชมวิว ชิวๆสบายๆ</string>
+    <string name="draft_middlepark00_text">เดินกินลม ชมวิว ชิว ๆ สบาย ๆ</string>
     <string name="draft_basketball00_title">สนามบาสเกตบอล</string>
     <string name="draft_basketball00_text">"เล่นบาสหน่ะ ต้องมีถูกเนื้อถูกตัวกันบ้าง~" /n-เราไม่ได้กล่าวไว้ แต่นั่นแหละ 55</string>
     <string name="draft_tennis00_title">สนามเทนนิส</string>
@@ -345,7 +345,7 @@
     <string name="draft_middlepark00_clock_text">หอนี้มีนาฬิกาแค่ 4 เรือน และตรวจสอบใบเสร็จได้!</string>
     <string name="notify_power_low">กำลังไฟฟ้าเริ่มเหลือน้อยแล้ว คุณคงต้องสร้างโรงไฟฟ้าเพิ่มแล้วหล่ะ</string>
     <string name="notify_water_low">น้ำประปาเริ่มที่จะไม่พอแล้ว คุณคงต้องสร้างเครื่องสูบน้ำเพิ่มแล้วหล่ะ</string>
-    <string name="notify_religion">นี่ๆ คุณช่วยสร้างศาสนสถานให้พวกเราหน่อยได้มั้ย? จะเป็นการขอบคุณอย่างมากเลย</string>
+    <string name="notify_religion">นี่ ๆ คุณช่วยสร้างศาสนสถานให้พวกเราหน่อยได้มั้ย? จะเป็นการขอบคุณอย่างมากเลย</string>
     <string name="notify_park">พวกเราอยากได้สวนเพิ่มจัง~</string>
     <string name="notify_sport">นี่! เราต้องการเล่นกีฬา!!</string>
     <string name="buildinginfo_happiness">ความสุขโดยรวม : %1$.0f%%</string>
@@ -359,7 +359,7 @@
     <string name="notify_requirementupgrade">ยินดีด้วย! คุณได้ปลดล็อก%1$sสำหรับ%2$sแล้ว!</string>
     <string name="draftselector_titlesports">กีฬา</string>
     <string name="draftselector_titlealert">อุบัติภัย</string>
-    <string name="notify_fire">ไฟไหม้ๆ!!! เรียกรถดับเพลิงมาที่จุดเกิดเหตุเร็ว! คราวหน้าลองสร้างสถานีดับเพลิงเพิ่มดูด้วยนะ</string>
+    <string name="notify_fire">ไฟไหม้ ๆ!!! เรียกรถดับเพลิงมาที่จุดเกิดเหตุเร็ว! คราวหน้าลองสร้างสถานีดับเพลิงเพิ่มดูด้วยนะ</string>
     <string name="notify_pollution">นี่! มลภาวะที่นี่มันจะเยอะเกินไปแล้ว!!</string>
     <string name="draft_radio00_title">สถานีวิทยุ</string>
     <string name="draft_radio00_text">ทีนี้ผู้คนรอบสารทิศจะได้รับฟังข่าวสดล่าสุดและเพลงลูกกรุงสุดโปรดได้แล้ว!</string>
@@ -373,7 +373,7 @@
     <string name="buildinginfo_powerusage">การใช้งาน : %1$.01f%%</string>
     <string name="buildinginfo_waterusage">การใช้งาน : %1$.1f%%</string>
     <string name="settings_maxzoomout">ซูมออกขั้นสูงสุด</string>
-    <string name="notify_noise">ฮะ? อะไรนะ ไม่ได้ยิน!!  เสียงรบกวนบริเวรนี้มันเยอะเกินไปแล้ว!</string>
+    <string name="notify_noise">ฮะ? อะไรนะ ไม่ได้ยิน!!  เสียงรบกวนบริเวณนี้มันเยอะเกินไปแล้ว!</string>
     <string name="happiness_energy">พลังงานไฟฟ้า</string>
     <string name="happiness_gamemode">โหมดเกม</string>
     <string name="happiness_level">ระดับอาคาร</string>
@@ -395,22 +395,22 @@
     <string name="draft_mosque00_text">มัสยิดสวยงามเพื่อชาวมุสลิมใช้ทำพิธีกรรม</string>
     <string name="settings_carsimulation">จำลองยานพาหนะ</string>
     <string name="settings_weather">สภาพอากาศ</string>
-    <string name="topic_christmas">สุขสันต์วันคริสต์มาส โฮ่ๆๆ!</string>
-    <string name="topic_newyear">สวัสดีวันปีใหม่! ขอให้มีแต่เรื่องดีๆเข้ามานะ &gt;,&lt; </string>
+    <string name="topic_christmas">สุขสันต์วันคริสต์มาส โฮ่ ๆๆ!</string>
+    <string name="topic_newyear">สวัสดีวันปีใหม่! ขอให้มีแต่เรื่องดี ๆ เข้ามานะ &gt;,&lt; </string>
     <string name="topic_birthday_lobby">สุขสันต์วันเกิดนะ Lobby! :)</string>
     <string name="topic_birthday_theo">สุขสันต์วันเกิดนะ Theo! :)</string>
     <string name="topic_np">P=NP?</string>
     <string name="topic_42"/>
     <string name="draft_radio00_news_title">ข่าวสด 87.5 เมกะเฮิร์ซ</string>
-    <string name="draft_radio00_news_text">รวดเร็ว! ฉับไว! น่าเชื่อถือ!! /nป่าวประกาษข่าวด่วนล่าสุดให้ชาวเมืองได้รับทราบกัน!
+    <string name="draft_radio00_news_text">รวดเร็ว! ฉับไว! น่าเชื่อถือ!! /nป่าวประกาศข่าวด่วนล่าสุดให้ชาวเมืองได้รับทราบกัน!
 \n
 \nสถานีวิทยุแต่ละแห่งสามารถถ่ายทอดได้แค่ 1 ช่องเท่านั้น ถ้าหากว่าเปลี่ยนรายการ รายการเก่าจะถูกยกเลิก</string>
     <string name="draft_radio00_sport_title">Sport FM</string>
-    <string name="draft_radio00_sport_text">ข่าวกีฬารอบโลก ส่งตรงถึงคุณ! /nถ่ายทอดรายการกีฬาให้กับประชาชนได้รับฟัง มีผลเทียบเท่ากับสนามกีฬาแต่มีรัสมีกว้าง
+    <string name="draft_radio00_sport_text">ข่าวกีฬารอบโลก ส่งตรงถึงคุณ! /nถ่ายทอดรายการกีฬาให้กับประชาชนได้รับฟัง มีผลเทียบเท่ากับสนามกีฬาแต่มีรัศมีกว้าง
 \n
 \nสถานีวิทยุแต่ละแห่งสามารถถ่ายทอดได้แค่ 1 ช่องเท่านั้น ถ้าหากว่าเปลี่ยนรายการ รายการเก่าจะถูกยกเลิก</string>
     <string name="draft_radio00_fun_title">หรรษา มหาสนุก เรดิโอ</string>
-    <string name="draft_radio00_fun_text">เพลงเพราะๆกับรายการบันเทิงรอบด้าน! ทุกอย่างที่จะทำให้ชาวเมืองของคุณรู้สึกสนุก มีผลเทียบเท่ากับสวนสาธารณะแต่มีรัสมีกว้าง
+    <string name="draft_radio00_fun_text">เพลงเพราะ ๆ กับรายการบันเทิงรอบด้าน! ทุกอย่างที่จะทำให้ชาวเมืองของคุณรู้สึกสนุก มีผลเทียบเท่ากับสวนสาธารณะแต่มีรัศมีกว้าง
 \n
 \nสถานีวิทยุแต่ละแห่งสามารถถ่ายทอดได้แค่ 1 ช่องเท่านั้น ถ้าหากว่าเปลี่ยนรายการ รายการเก่าจะถูกยกเลิก</string>
     <string name="draft_radio00_faith_title">วิทยุธรรมะ</string>
@@ -418,7 +418,7 @@
 \n
 \nสถานีวิทยุแต่ละแห่งสามารถถ่ายทอดได้แค่ 1 ช่องเท่านั้น ถ้าหากว่าเปลี่ยนรายการ รายการเก่าจะถูกยกเลิก</string>
     <string name="draft_lighthouse00_title">ประภาคาร</string>
-    <string name="draft_lighthouse00_text">เรือในทะเลหน่ะ ไม่มีหรอก สร้างไว้ดูต่างหน้าเฉยๆ</string>
+    <string name="draft_lighthouse00_text">เรือในทะเลหน่ะ ไม่มีหรอก สร้างไว้ดูต่างหน้าเฉย ๆ</string>
     <string name="draft_road02_title">ทางหลวง</string>
     <string name="draft_road02_text">ถนนความเร็วสูงสำหรับเชื่อมต่อเมืองเข้าด้วยกัน</string>
     <string name="budget_road">ถนน</string>
@@ -428,35 +428,35 @@
     <string name="tutorial_welcome">ยินดีต้อนรับสู่แบบฝึกหัดนะ! เรามาเรียนรู้พื้นฐานของเกมกันเถอะ</string>
     <string name="tutorial_minimap">คุณสามารถแตะเพื่อขยายและย่อแผนที่ได้</string>
     <string name="tutorial_buildroad_a">เดี๋ยวพวกเราจะเริ่มด้วยการสร้างถนนกันก่อนนะ เลือกถนนแบบถูกง่ายที่สุดก่อนเลย</string>
-    <string name="tutorial_buildroad_b">สร้างถนนตามแนวเส้นที่วางไว้ แตะตรงช่องที่ต้องการจะสร้างถนนครั้งแรก และแตะอีกครั้งที่จุดที่ต้องการปลายถนน จะมีตัวเลือกอื่นๆในการสร้างเพิ่มขึ้นตรงมุมขวาบนในภายหลัง</string>
+    <string name="tutorial_buildroad_b">สร้างถนนตามแนวเส้นที่วางไว้ แตะตรงช่องที่ต้องการจะสร้างถนนครั้งแรก และแตะอีกครั้งที่จุดที่ต้องการปลายถนน จะมีตัวเลือกอื่น ๆ ในการสร้างเพิ่มขึ้นตรงมุมขวาบนในภายหลัง</string>
     <string name="tutorial_buildroad_c">เยี่ยมเลย! ทีนี้ปิดเครื่องมือถนนได้</string>
-    <string name="tutorial_buildenergy_a">ทีนี้มาลองสร้างแผงโซล่าเซลล์เพื่อผลิดไฟฟ้ากันเถอะ</string>
+    <string name="tutorial_buildenergy_a">ทีนี้มาลองสร้างแผงโซลาร์เซลล์เพื่อผลิดไฟฟ้ากันเถอะ</string>
     <string name="tutorial_buildenergy_b">สร้างในจุดที่ทำเครื่องหมายไว้</string>
-    <string name="tutorial_buildenergy_c">งานดีจริงๆ!</string>
+    <string name="tutorial_buildenergy_c">งานดีจริง ๆ!</string>
     <string name="tutorial_buildwire_a">ที่นี้ก็แค่ลากสายไฟฟ้าเพื่อเชื่อมต่อเข้ากับเมือง</string>
     <string name="tutorial_buildwire_b">สร้างตามแนวที่ทำเครื่องหมายไว้ สร้างแบบเดียวกับถนน</string>
     <string name="tutorial_buildwire_c">สุดยอด! </string>
     <string name="tutorial_buildwater_a">มาลองสร้างหอเก็บน้ำกันดีกว่าทีนี้</string>
     <string name="tutorial_buildwater_b">สร้างได้เลย!</string>
-    <string name="tutorial_buildwater_c">เพอร์เฟ็ค!</string>
-    <string name="tutorial_buildpipe_a">แต่ว่าแค่ตัวหออย่างเดียวหน่ะไม่พอหรอกนะ เราต้องสร้างท่อประปาเพิ่มเพื่อให้น้ำเหล่านี้ไปถึงชาวบ้านจริงๆ</string>
+    <string name="tutorial_buildwater_c">เพอร์เฟกต์!</string>
+    <string name="tutorial_buildpipe_a">แต่ว่าแค่ตัวหออย่างเดียวหน่ะไม่พอหรอกนะ เราต้องสร้างท่อประปาเพิ่มเพื่อให้น้ำเหล่านี้ไปถึงชาวบ้านจริง ๆ</string>
     <string name="tutorial_buildpipe_b">แตะจุดเริ่มต้น แล้วตามด้วยจุดสิ้นสุด</string>
     <string name="tutorial_buildpipe_c">เรียบร้อย! พอเตรียมสาธารณูปโภคเสร็จแล้ว ก็ประกาศเขตก่อสร้างได้เลย! ;)</string>
-    <string name="tutorial_buildzones">เขตต่างๆทั้ง 3 แบบใช้ระบุพื้นที่ในการก่อสร้างอาคารประเภทต่างๆ</string>
-    <string name="tutorial_buildresidential_a">เรามาเริ่มต้นโดยการกำกับเขตที่อยู่อาศัย ให้ประชาชนย้ายเข้ามาอยู่ในบริเวรนี้ได้</string>
-    <string name="tutorial_buildresidential_b">กำกับโซนในบริเวรที่ทำเครื่องหมายไว้ได้เลย</string>
+    <string name="tutorial_buildzones">เขตต่าง ๆ ทั้ง 3 แบบใช้ระบุพื้นที่ในการก่อสร้างอาคารประเภทต่าง ๆ</string>
+    <string name="tutorial_buildresidential_a">เรามาเริ่มต้นโดยการกำกับเขตที่อยู่อาศัย ให้ประชาชนย้ายเข้ามาอยู่ในบริเวณนี้ได้</string>
+    <string name="tutorial_buildresidential_b">กำกับโซนในบริเวณที่ทำเครื่องหมายไว้ได้เลย</string>
     <string name="tutorial_buildresidential_c">เริ่มต้นได้สวย! :D</string>
     <string name="tutorial_buildcommercial_a">ทีนี้ก็ทำแบบเดียวกับเขตพาณิชย์ได้เลย!</string>
-    <string name="tutorial_buildcommercial_b">กำกับโซนในบริเวรที่ทำเครื่องหมายไว้ได้เลย</string>
+    <string name="tutorial_buildcommercial_b">กำกับโซนในบริเวณที่ทำเครื่องหมายไว้ได้เลย</string>
     <string name="tutorial_buildcommercial_c">เยี่ยม!</string>
     <string name="tutorial_buildindustrial_a">สุดท้ายแต่ไม่ท้ายสุด เหลือแค่กำกับเขตอุตสาหกรรม แค่นี้ก็ครบแล้ว!</string>
-    <string name="tutorial_buildindustrial_b">กำกับโซนในบริเวรที่ทำเครื่องหมายไว้ได้เลย</string>
-    <string name="tutorial_buildindustrial_c">เรียบร้อย! ทีนี้สิ่งก่อสร้างต่างๆก็จะถูกสร้างในเขตของมันแล้ว</string>
+    <string name="tutorial_buildindustrial_b">กำกับโซนในบริเวณที่ทำเครื่องหมายไว้ได้เลย</string>
+    <string name="tutorial_buildindustrial_c">เรียบร้อย! ทีนี้สิ่งก่อสร้างต่าง ๆ ก็จะถูกสร้างในเขตของมันแล้ว</string>
     <string name="tutorial_industrial_keepaway">จำไว้นะ คุณควรที่จะสร้างเขตอุตสาหกรรมห่างจากเขตที่อยู่อาศัย มิฉะนั้นจะมีปัญหาด้านมลพิษและเสียงตามมา (แต่เขตพาณิชย์จะไม่สนใจปัญหาเหล่านั้น)</string>
     <string name="tutorial_rci">แตะที่ปุ่มนี้เพื่อดูปริมาณของประชากรในแต่ละประเภทที่ต้องการจะย้ายเข้ามา</string>
     <string name="tutorial_speed_fast">แตะที่ปุ่มเหล่านี้เพื่อเปลี่ยนความเร็วเวลาในเกม เพื่อจะได้ไม่ต้องรอนาน!</string>
     <string name="tutorial_speed_normal">แต่ตอนนี้ตั้งกลับไปที่ความเร็วปกติก่อนละกันนะ</string>
-    <string name="tutorial_money_task">เป้าหมายของคุณ คือการเก็บภาษีไปสร้างสาธารณูปโภคต่างๆเพื่อขยายเมือง เพื่อเอาภาษีเข้าเพิ่มขึ้น เพื่อขยายเมืองเพิ่มขึ้น!!</string>
+    <string name="tutorial_money_task">เป้าหมายของคุณ คือการเก็บภาษีไปสร้างสาธารณูปโภคต่าง ๆ เพื่อขยายเมือง เพื่อเอาภาษีเข้าเพิ่มขึ้น เพื่อขยายเมืองเพิ่มขึ้น!!</string>
     <string name="tutorial_money_info">แตะที่มุมขวาล่างเพื่อดูข้อมูลเกี่ยวกับสภาวะการเงินของเมืองคุณ คุณสามารถเพิ่มภาษี, กู้เงิน, ขายไฟฟ้า/น้ำประปาให้เมืองเพื่อนบ้าน หรือแลกเปลี่ยนเงินเพื่อเพิ่มทุนได้</string>
     <string name="tutorial_congrats">เย้!! แค่นี้คุณก็สามารถสร้างเมืองของคุณเองได้แล้ว! ถ้าหากว่าคุณมีปัญหาอะไรที่ต้องการสอบถาม สามารถเข้าไปที่ฟอรั่มทางการของเราได้เลย! We welcome you! :D</string>
     <string name="draft_road03_title">ถนนเดินรถทางเดียว</string>
@@ -471,13 +471,13 @@
     <string name="settings_disaster_earthquake">แผ่นดินไหว</string>
     <string name="settings_disaster_illness">ไวรัส</string>
     <string name="settings_disaster_flooding">น้ำท่วม</string>
-    <string name="settings_disaster_godzilla">ก็อตซิล่า!!??</string>
+    <string name="settings_disaster_godzilla">ก็อตซิลลา!!??</string>
     <string name="settings_disaster_auto">ภัยพิบัติ</string>
     <string name="notify_firenodp">นี่!! มีเหตุไฟไหม้ในเมืองของคุณหน่ะ! สร้างสถานีดับเพลิงเพื่อไปดับไฟเร็ว!!</string>
     <string name="draft_destroyedtile_title">ซากปรักหักพัง</string>
     <string name="draft_destroyedtile_text">ดูแล้วไม่งามตา ถ้าจะให้ดีทำลายทิ้งดีกว่านะ</string>
     <string name="disaster_fire_title">ไฟไหม้</string>
-    <string name="disaster_fire_text">ลุกโชนเจิดจรัสเป็นออร่าแบบนี้ สงสัยไฟฟ้าลัดวงจรแน่ๆ ;P</string>
+    <string name="disaster_fire_text">ลุกโชนเจิดจรัสเป็นออร่าแบบนี้ สงสัยไฟฟ้าลัดวงจรแน่ ๆ ;P</string>
     <string name="disaster_fire_cmdtext">เผาาา!!!!</string>
     <string name="disaster_meteorite_title">อุกกาบาต</string>
     <string name="disaster_meteorite_text">เสกให้อุกกาบาตพวยพุ่งดิ่งพสุธาลงสู่พื้นผิวของโลก!</string>
@@ -486,16 +486,16 @@
     <string name="disaster_earthquake_text">แต่ถ้าทนมานาน แผ่นดินก็ไม่ไหวเหมือนกันนะ... /n/nมาโยกย้ายส่ายสะโพกกันเถอะ!! </string>
     <string name="disaster_earthquake_cmdtext">เอ้า โบกก!!!</string>
     <string name="disaster_illness_title">เชื้อไวรัส</string>
-    <string name="disaster_illness_text">อุ้ยตายแล๊ววว~!! /n. . . /n/n เห้ย ตายจริงๆด้วย TT</string>
+    <string name="disaster_illness_text">อุ้ยตายแล๊ววว~!! /n. . . /n/n เห้ย ตายจริง ๆ ด้วย TT</string>
     <string name="disaster_illness_cmdtext">ฮัดชิ่ว!!</string>
     <string name="disaster_flooding_title">น้ำท่วม</string>
-    <string name="disaster_flooding_text">แค่รอการระบายเฉยๆ!! ปัดโถ่วว!! /n/n/n((ระวังนะ! น้ำจะทำลายอาคารและถนนราบเป็นหน้ากลองเลย))</string>
+    <string name="disaster_flooding_text">แค่รอการระบายเฉย ๆ!! ปัดโถ่วว!! /n/n/n((ระวังนะ! น้ำจะทำลายอาคารและถนนราบเป็นหน้ากลองเลย))</string>
     <string name="disaster_flooding_cmdtext">ปลดปล่อยสงกรานต์!</string>
     <string name="buildinginfo_influences">ขอบเขตการบริการ</string>
     <string name="ci_loan_title">เงินกู้</string>
     <string name="ci_loan_donate">ขอร้อง</string>
     <string name="ci_loan_get">เพิ่ม</string>
-    <string name="ci_loan_donate_text">ฉันขอซักเงินหน่อยได้มั้ย? ทุกๆส่วนมันมีค่ากับฉันมาก ฉันจำเป็นต้องใช้จริงๆ :c</string>
+    <string name="ci_loan_donate_text">ฉันขอเงินซักหน่อยได้มั้ย? ทุก ๆ ส่วนมันมีค่ากับฉันมาก ฉันจำเป็นต้องใช้จริง ๆ :c</string>
     <string name="ci_loan_get_text">จำนวนเงินพื้นฐาน : 10,000₮
 \nระยะเวลา: 24 เดือน
 \nค่าผ่อนจ่ายรายเดือน : 500₮</string>
@@ -512,10 +512,10 @@
     <string name="ci_loan_remaining_runtime">ระยะที่เหลือ : %2$,d เดือน %1$,d วัน</string>
     <string name="ci_loan_paybackcost">จำนวนจ่ายคืน : %1$s</string>
     <string name="ci_loan_estate">ทรัพย์สิน %1$s</string>
-    <string name="topic_support_ads">คุณสามารถช่วยเหลือพวกเราได้โดยการช่วยดูโฆษณานะ ทีมของเราจำเป็นจริงๆ :)</string>
+    <string name="topic_support_ads">คุณสามารถช่วยเหลือพวกเราได้โดยการช่วยดูโฆษณานะ ทีมของเราจำเป็นจริง ๆ :)</string>
     <string name="settings_disaster_tornado">พายุทอร์นาโด</string>
     <string name="disaster_tornado_title">พายุทอร์นาโด</string>
-    <string name="disaster_tornado_text">หรือพายุงวงช้าง แต่ไม่ว่าจะชื่ออะไรก็ตาม ผลลัพท์คงออกมาไม่สวยแน่ๆ</string>
+    <string name="disaster_tornado_text">หรือพายุงวงช้าง แต่ไม่ว่าจะชื่ออะไรก็ตาม ผลลัพธ์คงออกมาไม่สวยแน่ ๆ</string>
     <string name="disaster_tornado_cmdtext">ล๊มม~ พัดตึ้ง!!!</string>
     <string name="buildinginfo_untouchable">ไม่สามารถแทนที่ได้</string>
     <string name="draft_zoneresidential_lvl2_title">เขตที่อยู่อาศัยความหนาแน่นสูง</string>
@@ -525,7 +525,7 @@
     <string name="draft_zoneindustrial_lvl2_title">เขตอุตสาหกรรมความหนาแน่นสูง</string>
     <string name="draft_zoneindustrial_lvl2_text">เพิ่มความหนาแน่นเพื่อเตรียมรับโรงงานขนาดใหญ่!</string>
     <string name="draft_zonefarm_title">ทุ่งเกษตรกรรม</string>
-    <string name="draft_zonefarm_text">เขตอุตสาหกรรมราคาถูกสำหรับการเริ่มต้นง่ายๆ ไม่มีมลภาวะ&amp;เสียง! (ขนาดอย่างต่ำคือ 4x4)</string>
+    <string name="draft_zonefarm_text">เขตอุตสาหกรรมราคาถูกสำหรับการเริ่มต้นง่าย ๆ ไม่มีมลภาวะ&amp;เสียง! (ขนาดอย่างต่ำคือ 4x4)</string>
     <string name="requirement_peoplecount_all">Need: A population of %1$,d</string>
     <string name="requirement_peoplecount_poor">Need: A poor population of %1$,d</string>
     <string name="requirement_peoplecount_middle">Need: A mid-class population of %1$,d</string>
@@ -534,16 +534,16 @@
     <string name="draftselector_onlyone">สามารถสร้างได้แค่ครั้งเดียว</string>
     <string name="draftselector_onlyn">สามารถสร้างได้แค่ %1$,d ครั้ง</string>
     <string name="draft_church02_title">โบสถ์เล็ก</string>
-    <string name="draft_church02_text">โบสถ์ขนาดคับแก้ว สำหรับหมู่บ้านเล็กๆน่ารักๆ</string>
+    <string name="draft_church02_text">โบสถ์ขนาดคับแก้ว สำหรับหมู่บ้านเล็ก ๆ น่ารัก ๆ</string>
     <string name="draft_mosque01_title">มัสยิดเล็ก</string>
-    <string name="draft_mosque01_text">มัสยิดขนาดย่อมเยาว์ สำหรับหมู่บ้านเล็กๆ น่ารักๆ</string>
+    <string name="draft_mosque01_text">มัสยิดขนาดย่อมเยาว์ สำหรับหมู่บ้านเล็ก ๆ น่ารัก ๆ</string>
     <string name="settings_sound_ui">เสียง UI</string>
     <string name="settings_sound_game">เสียงเกม</string>
     <string name="settings_preserveedges">คงขอบไว้</string>
     <string name="settings_fancybg">ฉากหลังแฟนซี</string>
     <string name="ci_not_available">ไม่มีข้อมูล</string>
     <string name="ci_education_title">การศึกษา</string>
-    <string name="ci_health_title">สาธารณะสุข</string>
+    <string name="ci_health_title">สาธารณสุข</string>
     <string name="ci_education_schools">โรงเรียน : %1$,d</string>
     <string name="ci_education_needed">ความต้องการ : %1$,d</string>
     <string name="ci_education_provided">ความสามารถในการรองรับ : %1$,d</string>
@@ -556,7 +556,7 @@
     <string name="ci_health_needed">ความต้องการ : %1$,d</string>
     <string name="influence_pollution_title">ระดับมลภาวะ</string>
     <string name="influence_noise_title">ระดับเสียงรบกวน</string>
-    <string name="influence_health_title">สาธารณะสุข</string>
+    <string name="influence_health_title">สาธารณสุข</string>
     <string name="influence_education_low_title">การศึกษาขั้นพื้นฐาน</string>
     <string name="influence_education_high_title">การศึกษาขั้นสูง</string>
     <string name="influence_police_title">ความครอบคลุมด้านตำรวจ</string>
@@ -568,13 +568,13 @@
     <string name="influence_culture_text">ดูความครอบคลุมของแหล่งวัฒนธรรมในเมืองของคุณ</string>
     <string name="influence_education_low_text">ยกตัวอย่างเช่นโรงเรียนอนุบาล &amp; โรงเรียนประถมศึกษา</string>
     <string name="influence_education_high_text">ยกตัวอย่างเช่นโรงเรียนมัธยมศึกษาหรือพิพิธภัณฑ์</string>
-    <string name="influence_firedep_text">ระยะขอบเขตของสถานีดับเพลิง อาคารที่อยู่ภายใต้ขอบเขตแทบที่จะไม่มีโอกาศติดไฟเลย</string>
+    <string name="influence_firedep_text">ระยะขอบเขตของสถานีดับเพลิง อาคารที่อยู่ภายใต้ขอบเขตแทบที่จะไม่มีโอกาสติดไฟเลย</string>
     <string name="influence_health_text">ระยะขอบเขตของสถานพยาบาล ทำให้ประชากรมีความสุขและรู้สึกอุ่นใจ</string>
     <string name="influence_noise_text">ไม่มีใครอยากอยู่ในเขตที่มีเสียงดังหรอกนะ</string>
     <string name="influence_park_text">ทำให้ประชากรมีความสุขและยังช่วยกระตุ้นให้มีการสร้างตึกสูงอีกด้วย</string>
-    <string name="influence_police_text">ช่วยปราบปรามเหตุร้ายภายใต้บริเวร</string>
+    <string name="influence_police_text">ช่วยปราบปรามเหตุร้ายภายใต้บริเวณ</string>
     <string name="influence_pollution_text">ไม่มีใครอยู่ในที่ที่มีพิษมีควันหรอกนะ</string>
-    <string name="influence_religion_text">ศาสนสถานแบบต่างๆ ต่างช่วยให้ผู้คนในเมืองของคุณรู้สึกดีนะ</string>
+    <string name="influence_religion_text">ศาสนสถานแบบต่าง ๆ ต่างช่วยให้ผู้คนในเมืองของคุณรู้สึกดีนะ</string>
     <string name="influence_sport_text">กีฬา กีฬา เป็นยาวิเศษ~ ฮ้า!ไฮ้!! ฮ้า!ไฮ้!!</string>
     <string name="draftselector_cmdShow">แสดงผล</string>
     <string name="ca_education_low_text">การศึกษาขั้นพื้นฐาน : นักเรียน %1$,d/%2$,d คน</string>
@@ -587,7 +587,7 @@
     <string name="settings_relaxed_line_tool">เครื่องมือวาดเส้นแบบง่าย</string>
     <string name="topic_fstapril">สุขสันต์วันโกหก ;]</string>
     <string name="draftselector_residential">อาคารที่อยู่อาศัย</string>
-    <string name="draftselector_commercial">อาคารพานิชย์</string>
+    <string name="draftselector_commercial">อาคารพาณิชย์</string>
     <string name="draftselector_industrial">อาคารอุตสาหกรรม</string>
     <string name="draftselector_building_level">ระดับขั้น : %1$,d</string>
     <string name="draftselector_building_zone">เขต : %1$s</string>
@@ -605,9 +605,9 @@
     <string name="draft_marker_protectedmarker_text">แสดงอาคารที่ถูกตั้งค่าให้ไม่สามารถสร้างทับได้</string>
     <string name="draft_marker_trafficmarker_title">การจราจร</string>
     <string name="draft_marker_trafficmarker_text">แสดงความหนาแน่นของปริมาณรถบนถนน</string>
-    <string name="draft_mayorvilla00_title">คฤหาส</string>
-    <string name="draft_mayorvilla00_text">คฤหาสสำหรับนายกเทศมนตรีโดยเฉพาะ</string>
-    <string name="happiness_health">ความพึงพอใจด้านสาธาระสุข</string>
+    <string name="draft_mayorvilla00_title">คฤหาสน์</string>
+    <string name="draft_mayorvilla00_text">คฤหาสน์สำหรับนายกเทศมนตรีโดยเฉพาะ</string>
+    <string name="happiness_health">ความพึงพอใจด้านสาธารณสุข</string>
     <string name="happiness_firedanger">ความเสี่ยงต่อเหตุเพลิงไหม้</string>
     <string name="dialog_screenshot_show">แสดง</string>
     <string name="draft_townhall01_title">ที่ว่าการอำเภอ</string>
@@ -625,7 +625,7 @@
     <string name="topic_android">สำหรับ Android เท่านั้น</string>
     <string name="topic_tryharder">สู้เข้าไป อย่า ได้ ถ๊อยยย~</string>
     <string name="topic_nature">ช่วยรักษาธรรมชาติด้วยน้า</string>
-    <string name="topic_time">ค่อยเป็นค่อยไป ใจเย็นๆนะ</string>
+    <string name="topic_time">ค่อยเป็นค่อยไป ใจเย็น ๆ นะ</string>
     <string name="topic_big">คิดให้ใหญ่ ไปให้ถึง</string>
     <string name="buildinginfo_waterwaste">น้ำเสีย : %1$.1f%%</string>
     <string name="ci_water_waste">ถูกทิ้ง : %1$.1f%%</string>
@@ -637,7 +637,7 @@
     <string name="draft_marina00_text">แหล่งความสุขสำหรับคนรวย</string>
     <string name="loadcity_version">เวอร์ชั่น %1$,d</string>
     <string name="loadcity_memdialog_title">ไม่สามารถเข้าถึงหน่วยความจำภายนอกได้</string>
-    <string name="loadcity_memdialog_text">เมืองจะถูกบันทึกในหน่วยความจำภายใน คุณจะไม่สามารถเข้าถึงไฟล์เหล่านั้นนได้</string>
+    <string name="loadcity_memdialog_text">เมืองจะถูกบันทึกในหน่วยความจำภายใน คุณจะไม่สามารถเข้าถึงไฟล์เหล่านั้นได้</string>
     <string name="loadcity_memdialog_cmdremind">เตือนฉัน</string>
     <string name="loadcity_memdialog_cmdok">ไม่เป็นไร</string>
     <string name="about_translation">คำแปล</string>
@@ -672,17 +672,17 @@
     <string name="draft_rail00_title">รางรถไฟ</string>
     <string name="draft_rail00_text">รางรถไฟทางวิ่งยกระดับ /n(!!ต้องกดสร้างเข้าไปในตัวสถานี!!)</string>
     <string name="draft_railwaystation00_title">สถานีรถไฟลอยฟ้า</string>
-    <string name="draft_railwaystation00_text">รถไฟนั้นเป็นวิธีที่ดีในการลดปริมาณการจราจรบนท้องถนน  สร้างสถานีรถไฟในบริเวรต่างๆของเมืองคุณแล้วเชื่อมมันเข้าด้วยกันด้วยรางรถไฟ</string>
+    <string name="draft_railwaystation00_text">รถไฟนั้นเป็นวิธีที่ดีในการลดปริมาณการจราจรบนท้องถนน  สร้างสถานีรถไฟในบริเวณต่าง ๆ ของเมืองคุณแล้วเชื่อมมันเข้าด้วยกันด้วยรางรถไฟ</string>
     <string name="draft_school02_title">โรงเรียนขนาดเล็ก</string>
-    <string name="draft_school02_text">โรงเรียนประถมฯขนาดเล็กสำหรับหมู่บ้านเล็กๆ</string>
+    <string name="draft_school02_text">โรงเรียนประถมฯขนาดเล็กสำหรับหมู่บ้านเล็ก ๆ</string>
     <string name="toolremove_zone_title">ยกเลิกเขตก่อสร้าง</string>
-    <string name="toolremove_zone_text">ใช้เพื่อรื้อ &amp; ยกเลิกเขตก่อสร้างประเภทต่างๆที่ได้กำหนดไว้</string>
+    <string name="toolremove_zone_text">ใช้เพื่อรื้อ &amp; ยกเลิกเขตก่อสร้างประเภทต่าง ๆ ที่ได้กำหนดไว้</string>
     <string name="budget_rail">ระบบราง</string>
     <string name="budget_railstation">สถานีรถไฟ</string>
     <string name="draft_marker_ticketmarker_title">ตั๋วรถไฟ</string>
     <string name="draft_marker_ticketmarker_text">แสดงปริมาณตั๋วรถไฟที่ถูกใช้งาน</string>
     <string name="trainstationinfo_usage">ผู้โดยสารที่รอ: %2$,d/%3$,d\nUsage: %1$.1f%%</string>
-    <string name="draft_firedepartment01_title">สถานดับเพลิงขนาดเล็ก</string>
+    <string name="draft_firedepartment01_title">สถานีดับเพลิงขนาดเล็ก</string>
     <string name="draft_firedepartment01_text">ป้องกัน &amp; ปราบปรามเหตุไฟไหม้  มีรถฉุกเฉินแค่คันเดียว</string>
     <string name="draft_police01_title">สถานีตำรวจขนาดเล็ก</string>
     <string name="draft_police01_text">เพื่อความปลอดภัยในชีวิต มีระยะครอบคลุมที่เล็ก</string>
@@ -694,8 +694,8 @@
     <string name="draft_biergarten00_title">ลานเบียร์</string>
     <string name="draft_biergarten00_text">นัดเพื่อนกันแล้วไปเลี้ยงฉลองเลย!</string>
     <string name="notify_noreszone">มีผู้คนต้องการจะย้ายมาอาศัยในเมืองเราหล่ะ จัดเขตอาศัยให้พวกเขาสร้างเลย!</string>
-    <string name="notify_nocomzone">มีธุรกิจต่างๆต้องการมาเปิดตัวในเมืองของเรา คุณควรระบุเขตพานิชย์เพิ่มเพื่อให้พวกเขาสามารถสร้างได้</string>
-    <string name="notify_noindzone">โรงงานอุตสาหกรรมจำนวนมากต้องการตั้งฐานการผลิตในเมืองของเรา ดราควรระบุเขตให้พวกเขาเข้ามาก่อสร้างได้นะ</string>
+    <string name="notify_nocomzone">มีธุรกิจต่าง ๆ ต้องการมาเปิดตัวในเมืองของเรา คุณควรระบุเขตพาณิชย์เพิ่มเพื่อให้พวกเขาสามารถสร้างได้</string>
+    <string name="notify_noindzone">โรงงานอุตสาหกรรมจำนวนมากต้องการตั้งฐานการผลิตในเมืองของเรา เราควรระบุเขตให้พวกเขาเข้ามาก่อสร้างได้นะ</string>
     <string name="createcity_sizebigbigbig">ยักษ์</string>
     <string name="locale">en</string>
     <string name="draft_police02_title">สำนักงานหน่วย S.W.A.T.</string>
@@ -705,12 +705,12 @@
     <string name="happiness_environment">ความพึงพอใจด้านสิ่งแวดล้อม</string>
     <string name="happiness_freetime">เวลาในการพักผ่อนของหน่วยประชากร (Work-Life Balance)</string>
     <string name="notify_noroad">สิ่งก่อสร้างบางแห่งไม่สามารถเข้าถึงได้ คุณจำเป็นต้องสร้างถนนเชื่อมต่อโดยเร็ว!</string>
-    <string name="notify_water_waste">เฮ้ย! น้ำแถวนี้มลภาวะเยอะมากๆเลย!!</string>
+    <string name="notify_water_waste">เฮ้ย! น้ำแถวนี้มลภาวะเยอะมาก ๆ เลย!!</string>
     <string name="influence_management_title">การบริหารจัดการ</string>
     <string name="influence_management_text">อำนาจบริหารที่แผ่ปกคลุมเมือง</string>
     <string name="happiness_management">ความพึงพอใจด้านการบริหารจัดการ</string>
     <string name="dialog_oldmap_title">เมืองโบราณ</string>
-    <string name="dialog_oldmap_text">TheoTown ถูกพัฒนามาไกลมากนับจากวันที่เมืองนี้ถูกสร้าง หลายๆอย่างอาจจะไม่ได้ทำงานเป็นปกติ กรุณาอย่าโกรธพวกเราเลยน้าาาา T-T(◕‿◕✿)</string>
+    <string name="dialog_oldmap_text">TheoTown ถูกพัฒนามาไกลมากนับจากวันที่เมืองนี้ถูกสร้าง หลาย ๆ อย่างอาจจะไม่ได้ทำงานเป็นปกติ กรุณาอย่าโกรธพวกเราเลยน้าาาา T-T(◕‿◕✿)</string>
     <string name="dialog_oldmap_cmdproceed">ทำต่อ</string>
     <string name="dialog_oldmap_cmdcancel">ยกเลิก</string>
     <string name="notify_bad_health">สุขภาพของผู้คนแถวนี้ย่ำแย่มาก คุณควรปรับปรุงสิ่งแวดล้อมให้ดีกว่านี้หรือไม่ก็สร้างสถานพยาบาลเพิ่มขึ้น</string>
@@ -733,7 +733,7 @@
     <string name="createcity_cityauthor">ผู้สร้าง :</string>
     <string name="about_homepage">หน้า Homepage</string>
     <string name="oome_title">หน่วยความจำไม่พอ</string>
-    <string name="oome_text">ขออภัยด้วย อุปกรณ์ของคุณมีหน่วยความจำ RAM ไม่พอที่จะเปิดแอพลิเคชั่น</string>
+    <string name="oome_text">ขออภัยด้วย อุปกรณ์ของคุณมีหน่วยความจำ RAM ไม่พอที่จะเปิดแอปพลิเคชัน</string>
     <string name="createcity_trees">ต้นไม้</string>
     <string name="dialog_closecity_text">คุณต้องการที่จะบันทึกการเปลี่ยนแปลงก่อนจะออกจริงหรือไม่</string>
     <string name="dialog_closecity_title">บันทึกเมือง</string>
@@ -750,7 +750,7 @@
     <string name="roadinfo_title">ถนน</string>
     <string name="roadinfo_trafficlights_on">ติดตั้งไฟจราจร</string>
     <string name="roadinfo_trafficlights_off">รื้อถอนไฟจราจร</string>
-    <string name="notify_crime">บริเวรแถวนี้มียังการอาชญากรรมอยู่ คุณควรสร้างสถานีตำรวจเพิ่ม ไม่ก็เพิ่มความสุขของประชากรบริเวรนี้นะ</string>
+    <string name="notify_crime">บริเวณแถวนี้มียังการอาชญากรรมอยู่ คุณควรสร้างสถานีตำรวจเพิ่ม ไม่ก็เพิ่มความสุขของประชากรบริเวณนี้นะ</string>
     <string name="tutorial_buildbridge_a">ฉันคิดว่าเราควรทำให้การจราจรราบลื่นกว่านี้นะ ทำไมนายไม่ลองสร้างถนนหลักดูหล่ะ? </string>
     <string name="tutorial_buildbridge_b">แตะที่จุดเริ่มต้นและจุดสิ้นสุดที่ต้องการจะสร้างเลย เห็นไหมว่าสะพานจะถูกสร้างโดยอัตโนมัติข้ามแม่น้ำเลย!</string>
     <string name="tutorial_buildbridge_c">โอเค~ เราพอกับการก่อสร้างแค่นี้ก่อนนะ</string>
@@ -771,8 +771,8 @@
     <string name="draft_marker_watermarker_title">น้ำประปา</string>
     <string name="draft_road04_title">ถนนใหญ่</string>
     <string name="draft_road05_title">ทางด่วน</string>
-    <string name="draft_road04_text">ถนนที่ถูกประดับประดาด้วยต้นไม้สวยๆ</string>
-    <string name="draft_road05_text">ถนนที่เหมาะสมกับการเชื่อสถานที่ไกลๆเข้าด้วยกัน</string>
+    <string name="draft_road04_text">ถนนที่ถูกประดับประดาด้วยต้นไม้สวย ๆ</string>
+    <string name="draft_road05_text">ถนนที่เหมาะสมกับการเชื่อสถานที่ไกล ๆ เข้าด้วยกัน</string>
     <string name="notify_unhappy">ผู้คนรู้สึกไม่พอใจเรื่อง%1$s! คุณควรแก้ไขเรื่องนี้โดยเร็ว!</string>
     <string name="happiness_general">ความสุขทั่วไป</string>
     <string name="draft_rnk_isolateddwelling_title">Isolated Dwelling</string>
